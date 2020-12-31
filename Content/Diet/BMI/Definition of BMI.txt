@@ -1,0 +1,4 @@
+Definition of BMI
+
+Body Mass Index is one of the human body measurement. It allows people to understand their health statement, especially they are underweight, normal or obese. According to <a href="https://www.everydayhealth.com/diet-nutrition/bmi/bmi-flaws-history-other-ways-measure-body-weight/">everydayhealth.com</a>, BMI was published by Ancel Keys from a paper entitled "Indicies of Relative Weight and Obesity" in 1972. The test requires two factors which are the height and weight of the user. From the BMI test, the user can recognize their fatness and predict possible risks from obesity such as heart disease, cancer and two types of diabetes. The ideal percentage of BMI is 18.5 to 24.9. In other words, people need to beware of if their BMI is under 18.5 or over 24.9.
+ 
