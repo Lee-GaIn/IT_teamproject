@@ -1,0 +1,9 @@
+What is BMR
+
+Basal Metabolic Rate is a tool to calculate how many calories are burned each day from the user.
+It also means that it helps to figure out the proper amount of calories to achieve an individual's objectives.
+For example, if the user prefers to lose weight, they should consume less or the same calories that they burn every day, whereas they need to eat more if they want to gain weight. According to <a href="https://www.healthline.com/health/what-is-basal-metabolic-rate#takeaway">healthline.com</a>, a number of factors like sex, weight, height, age, ethnicity, weight history, body composition and genetic factors may be required to determine accurate BMR.
+However, it is also available to measure BMR by using BNR calculator provided by many health 
+websites such as <a href="https://www.calculator.net/bmr-calculator.html">calculator.net</a>
+to obtain an approximate figure. Many researchers highlight that Basal Metabolic Rate is reliable
+mean to estimate calories burned per day so it is recommended to identify BMR before plan diet and exercise.
